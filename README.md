@@ -1,4 +1,4 @@
-## Welcome to my channel 🦁
+## Welcome to my page 🦁
 
 <div align="center">
 <br><br>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
- <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=平平无奇&center=true&size=25"> </a> </h1>
+ <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我本将心照明月，奈何明月照沟渠&center=true&size=25"> </a> </h1>
 <!-- knock code pictures 敲代码的图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
