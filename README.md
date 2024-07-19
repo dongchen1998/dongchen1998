@@ -1,4 +1,7 @@
-## Welcome to my page 🦁
+# Welcome to my page 🦁
+- My areas of interest: Emotional Computing, Sleep Staging, Bioinformatics, Deep Learning, etc.
+- My skills: Python, R, Shell scripting, PyTorch, etc.
+
 
 <div align="center">
 <br><br>
