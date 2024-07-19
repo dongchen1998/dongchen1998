@@ -2,9 +2,7 @@
 - My areas of interest: Emotional Computing, Sleep Staging, Bioinformatics, Deep Learning, etc.
 - My skills: Python, R, PyTorch, etc.
 - My preferences: Beer, Music, Calligraphy, Movies, Running.
-Let's cheer each other on!
-
-
+#### Let's cheer each other on!
 
 <div align="center">
 <br><br>
