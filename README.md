@@ -1,6 +1,6 @@
 # Welcome to my page 🦁
-- My areas of interest: Brain-computer interface, Physiological Signal Processing, Bioinformatics, Computational biology，Deep Learning, etc.
-- My skills: Python, Matlab，R, PyTorch, Shell etc.
+- My areas of interest: Brain-computer interface, Physiological Signal Processing, Bioinformatics, AI, Smart Wear etc.
+- My skills: Python, R, Matlab，C ，Shell etc.
 - My preferences: Beer, Music, Calligraphy, Movies, Running.
 #### Let's cheer each other on!
 
