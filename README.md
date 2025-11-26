@@ -1,5 +1,5 @@
 # Welcome to my page 🦁
-- My areas of interest: AI，SFT， Brain-computer interface, Physiological Signal Processing, Bioinformatics, Smart Wear etc.
+- My areas of interest: AI，Brain-computer interface, Physiological Signal Processing, Bioinformatics, Smart Wear etc.
 - My preferences: Beer, Music, Calligraphy, Movies, Running.
 #### Let's cheer each other on!
 
